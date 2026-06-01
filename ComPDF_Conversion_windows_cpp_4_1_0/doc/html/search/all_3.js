@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['base_0',['base',['../namespacecompdf_1_1base.html',1,'compdf']]],
+  ['cancel_1',['cancel',['../struct_c_convert_callback.html#ac6f839275517a858414e726d726ea55b',1,'CConvertCallback']]],
+  ['ccancel_2',['CCancel',['../com__config__macros_8h.html#a39be504cfea6361750df9b44136e9a4d',1,'com_config_macros.h']]],
+  ['cconvertcallback_3',['CConvertCallback',['../struct_c_convert_callback.html',1,'CConvertCallback'],['../com__config__macros_8h.html#a43d0b02fabb4d970b39c02a8fe07fdaf',1,'CConvertCallback():&#160;com_config_macros.h']]],
+  ['cgetlayoutresultcallback_4',['CGetLayoutResultCallback',['../com__config__macros_8h.html#a1c52bb366c1564d0d1eec8ccc540b654',1,'com_config_macros.h']]],
+  ['cgetocrresultcallback_5',['CGetOCRResultCallback',['../com__config__macros_8h.html#a3268c390dadffaf47d08df981774aad5',1,'com_config_macros.h']]],
+  ['cgettableresultcallback_6',['CGetTableResultCallback',['../com__config__macros_8h.html#af28af0ca81c5e57c34de6adfe96b7355',1,'com_config_macros.h']]],
+  ['clayoutcallback_7',['CLayoutCallback',['../com__config__macros_8h.html#a0469fc1b15dcd0ee127942537cc3ab32',1,'com_config_macros.h']]],
+  ['cocrcallback_8',['COCRCallback',['../com__config__macros_8h.html#aa41dd1b1ebfa8e62b2587b39926aa8d0',1,'com_config_macros.h']]],
+  ['com_5fconfig_5fmacros_2eh_9',['com_config_macros.h',['../com__config__macros_8h.html',1,'']]],
+  ['comhandle_10',['COMHANDLE',['../com__config__macros_8h.html#ad35cee2a61326b0c2fedf9aa636b3d38',1,'com_config_macros.h']]],
+  ['common_11',['common',['../namespacecompdf_1_1common.html',1,'compdf']]],
+  ['compdf_12',['compdf',['../namespacecompdf.html',1,'']]],
+  ['compdf_5fconversion_2eh_13',['compdf_conversion.h',['../compdf__conversion_8h.html',1,'']]],
+  ['compdfkit_5fdecl_14',['COMPDFKIT_DECL',['../com__config__macros_8h.html#a66389c9c33678081cfca79f8db24e922',1,'com_config_macros.h']]],
+  ['contain_5fannotation_15',['contain_annotation',['../structcompdf_1_1base_1_1_convert_options.html#ac6ceaacfbdb737394aee933488b2d5de',1,'compdf::base::ConvertOptions']]],
+  ['contain_5fimage_16',['contain_image',['../structcompdf_1_1base_1_1_convert_options.html#acaa65ae6cca33f72135f2bb85d403267',1,'compdf::base::ConvertOptions']]],
+  ['contain_5fpage_5fbackground_5fimage_17',['contain_page_background_image',['../structcompdf_1_1base_1_1_convert_options.html#a5606a3e11218a32bb462e0892f3e44fb',1,'compdf::base::ConvertOptions']]],
+  ['conversion_18',['conversion',['../namespacecompdf_1_1conversion.html',1,'compdf']]],
+  ['convertblueerrorcode_19',['ConvertBlueErrorcode',['../namespacecompdf_1_1common.html#ae7f80ab68b22faf5bdf393166056db89',1,'compdf::common']]],
+  ['convertoptions_20',['ConvertOptions',['../structcompdf_1_1base_1_1_convert_options.html',1,'compdf::base']]],
+  ['cpdfconversion_21',['CPDFConversion',['../classcompdf_1_1conversion_1_1_c_p_d_f_conversion.html',1,'compdf::conversion']]],
+  ['cprogress_22',['CProgress',['../com__config__macros_8h.html#a2d56dc84f2bb501afbc6a9e47701d2eb',1,'com_config_macros.h']]],
+  ['ctablecallback_23',['CTableCallback',['../com__config__macros_8h.html#afc08f8e24b34cbeedbe9a22835b21118',1,'com_config_macros.h']]]
+];
