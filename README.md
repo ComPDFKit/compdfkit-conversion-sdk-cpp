@@ -2,7 +2,7 @@
 
 As part of the KDAN ecosystem, ComPDF Conversion SDK enables your C++ applications to transform PDF files into editable Office documents, images, HTML, and more — with a straightforward C++ API. Designed for cross-platform desktop applications, it preserves layout, tables, text structure, and formatting so your users get accurate, production-ready output every time.
 
-> If you find this library helpful, please consider giving us a ⭐ **Star** on GitHub! Have feedback or questions? Join the conversation in our [Discussions](https://github.com/orgs/ComPDFKit/discussions).
+> If you find this library helpful, please consider giving us a ⭐ **Star** on GitHub! Have feedback or questions? Join the conversation in our [Discussions](https://github.com/ComPDFKit/compdfkit-conversion-sdk-cpp/discussions).
 
 **Supported Features**
 
